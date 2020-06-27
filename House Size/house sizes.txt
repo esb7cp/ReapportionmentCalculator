@@ -1,0 +1,11 @@
+Current: 435
+
+Wyoming Rule, 50 States: 583.040418
+Cube Root Rule, 50 States: 691.4598323
+
+Wyoming Rule, DC: 583.040418
+Cube Root Rule, DC: 691.9619161
+
+Wyoming Rule, PR: 583.040418
+Cube Root Rule, PR: 693.567363
+
