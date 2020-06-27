@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "S/IwoQG0zfgxRJ8G9mayfonp2+TKlFNtYJmlYh6OA9C6d5mA8ZF8bCgpyfsD3T8h2Em+D3Q0Wm6RDvfeoI1J8Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\esb54\\source\\repos\\House Size\\House Size\\House Size.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\esb54\\.nuget\\packages\\csvhelper\\15.0.5\\csvhelper.15.0.5.nupkg.sha512",
+    "C:\\Users\\esb54\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
