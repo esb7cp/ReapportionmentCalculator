@@ -1,0 +1,51 @@
+﻿Id,Name,Pop,Ab,Reps,standardQuota,lowerQuota,upperQuota
+0,Alabama,4908620,AL,0,0,0,0
+1,Alaska,734002,AK,0,0,0,0
+2,Arizona,7378490,AZ,0,0,0,0
+3,Arkansas,3039000,AR,0,0,0,0
+4,California,39937500,CA,0,0,0,0
+5,Colorado,5845530,CO,0,0,0,0
+6,Connecticut,3563080,CT,0,0,0,0
+7,Delaware,982895,DE,0,0,0,0
+8,Florida,21993000,FL,0,0,0,0
+9,Georgia,10736100,GA,0,0,0,0
+10,Hawaii,1412690,HI,0,0,0,0
+11,Idaho,1826160,ID,0,0,0,0
+12,Illinois,12659700,IL,0,0,0,0
+13,Indiana,6745350,IN,0,0,0,0
+14,Iowa,3179850,IA,0,0,0,0
+15,Kansas,2910360,KS,0,0,0,0
+16,Kentucky,4499690,KY,0,0,0,0
+17,Louisiana,4645180,LA,0,0,0,0
+18,Maine,1345790,ME,0,0,0,0
+19,Maryland,6083120,MD,0,0,0,0
+20,Massachusetts,6976600,MA,0,0,0,0
+21,Michigan,10045000,MI,0,0,0,0
+22,Minnesota,5700670,MN,0,0,0,0
+23,Mississippi,2989260,MS,0,0,0,0
+24,Missouri,6169270,MO,0,0,0,0
+25,Montana,1086760,MT,0,0,0,0
+26,Nebraska,1952570,NE,0,0,0,0
+27,Nevada,3139660,NV,0,0,0,0
+28,New Hampshire,1371250,NH,0,0,0,0
+29,New Jersey,8936570,NJ,0,0,0,0
+30,New Mexico,2096640,NM,0,0,0,0
+31,New York,19440500,NY,0,0,0,0
+32,North Carolina,10611900,NC,0,0,0,0
+33,North Dakota,761723,ND,0,0,0,0
+34,Ohio,11747700,OH,0,0,0,0
+35,Oklahoma,3954820,OK,0,0,0,0
+36,Oregon,4301090,OR,0,0,0,0
+37,Pennsylvania,12820900,PA,0,0,0,0
+38,Rhode Island,1056160,RI,0,0,0,0
+39,South Carolina,5210100,SC,0,0,0,0
+40,South Dakota,903027,SD,0,0,0,0
+41,Tennessee,6897580,TN,0,0,0,0
+42,Texas,29472300,TX,0,0,0,0
+43,Utah,3282120,UT,0,0,0,0
+44,Vermont,628061,VT,0,0,0,0
+45,Virginia,8626210,VA,0,0,0,0
+46,Washington,7797100,WA,0,0,0,0
+47,West Virginia,1778070,WV,0,0,0,0
+48,Wisconsin,5851750,WI,0,0,0,0
+49,Wyoming,567025,WY,0,0,0,0
