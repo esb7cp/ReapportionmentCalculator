@@ -28,7 +28,7 @@ namespace House_Size
         {
             foreach (var state in records)
             {
-                Console.WriteLine(state.Ab + " " + state.Reps);
+                Console.WriteLine(state.Ab + ": " + state.Reps + " (" + state.Name + ")");
             }
         }
 
@@ -117,9 +117,8 @@ namespace House_Size
             
             while (check == 0)
             {
-                Console.WriteLine("\n");
                 string option = "0";
-                Console.WriteLine("0. To quit\n1. For 50 States\n2. For 50 States + DC\n3. For 50 States + PR\n4. For 50 States + DC + PR");
+                Console.WriteLine("0. To quit\n1. For 50 States\n2. For 50 States + DC\n3. For 50 States + PR\n4. For 50 States + DC + PR\n5. For hypothetical American Empire");
                 option = Console.ReadLine();
                 int numOption = Int32.Parse(option);
                 if (numOption < 1 || numOption > 5)

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\esb54\\source\\repos\\esb7cp\\ReapportionmentCalculator\\House Size\\House Size\\House Size.csproj": {}
+    "C:\\Users\\esb54\\Source\\Repos\\esb7cp\\ReapportionmentCalculator\\House Size\\House Size\\House Size.csproj": {}
   },
   "projects": {
-    "C:\\Users\\esb54\\source\\repos\\esb7cp\\ReapportionmentCalculator\\House Size\\House Size\\House Size.csproj": {
+    "C:\\Users\\esb54\\Source\\Repos\\esb7cp\\ReapportionmentCalculator\\House Size\\House Size\\House Size.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\esb54\\source\\repos\\esb7cp\\ReapportionmentCalculator\\House Size\\House Size\\House Size.csproj",
+        "projectUniqueName": "C:\\Users\\esb54\\Source\\Repos\\esb7cp\\ReapportionmentCalculator\\House Size\\House Size\\House Size.csproj",
         "projectName": "House Size",
-        "projectPath": "C:\\Users\\esb54\\source\\repos\\esb7cp\\ReapportionmentCalculator\\House Size\\House Size\\House Size.csproj",
+        "projectPath": "C:\\Users\\esb54\\Source\\Repos\\esb7cp\\ReapportionmentCalculator\\House Size\\House Size\\House Size.csproj",
         "packagesPath": "C:\\Users\\esb54\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\esb54\\source\\repos\\esb7cp\\ReapportionmentCalculator\\House Size\\House Size\\obj\\",
+        "outputPath": "C:\\Users\\esb54\\Source\\Repos\\esb7cp\\ReapportionmentCalculator\\House Size\\House Size\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
