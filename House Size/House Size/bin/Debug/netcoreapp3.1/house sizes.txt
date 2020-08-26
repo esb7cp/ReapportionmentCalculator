@@ -1,0 +1,17 @@
+Current: 435
+
+Evan Ratio: 478116.7 people per rep
+
+Wyoming Rule, 50 States: 583.040418
+Cube Root Rule, 50 States: 691.4598323
+
+Wyoming Rule, DC: 583.040418
+Cube Root Rule, DC: 691.9619161
+
+Wyoming Rule, PR: 583.040418
+Cube Root Rule, PR: 693.567363
+
+Total Pop, American Empire: 435307178
+Wyoming Rule, American Empire: 982.634713
+Cube Root Rule, American Empire: 757.876794
+Evan Rule, American Empire: 910.462191

@@ -4,9 +4,6 @@ using System.Collections.Generic;
 using System.Globalization;
 using System.IO;
 using System.Linq;
-using System.Net;
-using System.Reflection.PortableExecutable;
-using System.Transactions;
 
 namespace House_Size
 {
@@ -109,6 +106,16 @@ namespace House_Size
             }
 
             huntingtonHillMethod(path, record, records, size);
+            if (num == 5)
+            {
+                Console.WriteLine("\nTerritories:");
+                Console.WriteLine("Bermuda");
+                Console.WriteLine("Greenland");
+                Console.WriteLine("Labrador (Includes northern Quebec)");
+                Console.WriteLine("Borealia");
+                Console.WriteLine("Yukon");
+                Console.WriteLine("Nunavut");
+            }
         }
 
         static void Main(string[] args)

@@ -1,24 +1,35 @@
 ﻿Name,Pop,Ab,Reps,standardQuota,lowerQuota,upperQuota
 Alabama,4908620,AL,0,0,0,0
-Alaska,734002,AK,0,0,0,0
+Alaska,573857,AK,0,0,0,0
+Alberta,3931597,AB,0,0,0,0
+Antilles,2020084,AN,0,0,0,0
 Arizona,7378490,AZ,0,0,0,0
 Arkansas,3039000,AR,0,0,0,0
+Bahama,443000,BA,0,0,0,0
+Baja California,4079695,BC,0,0,0,0
 California,39937500,CA,0,0,0,0
+Cascadia,4863736,CS,0,0,0,0
 Colorado,5845530,CO,0,0,0,0
+"Columbia (AK panhandle, North BC, North AB)",457726,CL,0,0,0,0
 Connecticut,3563080,CT,0,0,0,0
+Cuba,11193470,CU,0,0,0,0
 Delaware,982895,DE,0,0,0,0
-District of Columbia,720687,DC,0,0,0,0
+"Douglass (Washington, DC)",720687,DC,0,0,0,0
 Florida,21993000,FL,0,0,0,0
 Georgia,10736100,GA,0,0,0,0
 Hawaii,1412690,HI,0,0,0,0
+Hispaniola,21396000,HS,0,0,0,0
 Idaho,1826160,ID,0,0,0,0
 Illinois,12659700,IL,0,0,0,0
 Indiana,6745350,IN,0,0,0,0
 Iowa,3179850,IA,0,0,0,0
+Jamaica,2792480,JM,0,0,0,0
 Kansas,2910360,KS,0,0,0,0
 Kentucky,4499690,KY,0,0,0,0
+Lincoln (Chihuahua),3556574,LI,0,0,0,0
 Louisiana,4645180,LA,0,0,0,0
 Maine,1345790,ME,0,0,0,0
+Manitoba (MB + SK),2352402,MB,0,0,0,0
 Maryland,6083120,MD,0,0,0,0
 Massachusetts,6976600,MA,0,0,0,0
 Michigan,10045000,MI,0,0,0,0
@@ -29,20 +40,29 @@ Missouri,6169270,MO,0,0,0,0
 Montana,1086760,MT,0,0,0,0
 Nebraska,1952570,NE,0,0,0,0
 Nevada,3139660,NV,0,0,0,0
+New Brunswick,780890,NB,0,0,0,0
 New Hampshire,1371250,NH,0,0,0,0
 New Jersey,8936570,NJ,0,0,0,0
 New Mexico,2096640,NM,0,0,0,0
 New York,19440500,NY,0,0,0,0
+Newfoundland,485535,NF,0,0,0,0
 North Carolina,10611900,NC,0,0,0,0
 North Dakota,761723,ND,0,0,0,0
+Nova Scotia,1136991,NS,0,0,0,0
 Ohio,11747700,OH,0,0,0,0
 Oklahoma,3954820,OK,0,0,0,0
+Ontario,12668354,ON,0,0,0,0
 Oregon,4301090,OR,0,0,0,0
 Pennsylvania,12820900,PA,0,0,0,0
-Puerto Rico,3032160,PR,0,0,0,0
+Polynesia,675883,PN,0,0,0,0
+Puerto Rico,3168595,PR,0,0,0,0
+Quebec,8027282,QC,0,0,0,0
 Rhode Island,1056160,RI,0,0,0,0
+Rio Grande,11516117,RG,0,0,0,0
+Sonora,2850330,SO,0,0,0,0
 South Carolina,5210100,SC,0,0,0,0
 South Dakota,903027,SD,0,0,0,0
+Sudbury,714607,SB,0,0,0,0
 Tennessee,6897580,TN,0,0,0,0
 Texas,29472300,TX,0,0,0,0
 Utah,3282120,UT,0,0,0,0
@@ -52,3 +72,4 @@ Washington,7797100,WA,0,0,0,0
 West Virginia,1778070,WV,0,0,0,0
 Wisconsin,5851750,WI,0,0,0,0
 Wyoming,567025,WY,0,0,0,0
+Yucatan,4498668,YU,0,0,0,0
