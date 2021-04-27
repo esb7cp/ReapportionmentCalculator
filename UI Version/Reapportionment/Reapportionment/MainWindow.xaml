@@ -1,0 +1,21 @@
+﻿<Window x:Class="Reapportionment.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Reapportionment"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <ComboBox x:Name="optionDropdown" HorizontalAlignment="Left" Margin="80,56,0,0" VerticalAlignment="Top" Width="120" SelectedIndex="0"/>
+        <Button x:Name="buttonRun" Content="Run Analysis" HorizontalAlignment="Left" Margin="80,243,0,0" VerticalAlignment="Top" Width="75" Click="buttonRun_Click"/>
+        <ComboBox x:Name="dateDropdown" HorizontalAlignment="Left" Margin="80,124,0,0" VerticalAlignment="Top" Width="120" SelectedIndex="0"/>
+        <TextBlock HorizontalAlignment="Left" Margin="80,103,0,0" TextWrapping="Wrap" Text="Cenus Data" VerticalAlignment="Top"/>
+        <TextBlock HorizontalAlignment="Left" Margin="80,35,0,0" TextWrapping="Wrap" Text="States" VerticalAlignment="Top"/>
+        <TextBox x:Name="textBox" HorizontalAlignment="Stretch" Height="Auto" Margin="258,10,0,0" TextWrapping="Wrap" VerticalAlignment="Stretch" Width="Auto" VerticalScrollBarVisibility="Auto"/>
+        <TextBox x:Name="sizeBox" HorizontalAlignment="Left" Height="23" Margin="80,195,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="61" Text="435"/>
+        <TextBlock HorizontalAlignment="Left" Margin="80,162,0,0" TextWrapping="Wrap" Text="Total Number of Representatives" VerticalAlignment="Top"/>
+        <TextBox x:Name="info" HorizontalAlignment="Left" Height="139" Margin="10,270,539,0" TextWrapping="Wrap" Text="Hypothetical Numbers of Representatives:&#xA;Current - 435&#xA;Wyoming Rule, 2010 - 547&#xA;Wyoming Rule, 2000 - 569&#xA;Cube Root Rule, 2020 - 690" Width="243"/>
+
+    </Grid>
+</Window>

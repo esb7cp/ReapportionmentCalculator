@@ -19,7 +19,7 @@ namespace House_Size
 
     }
 
-    class Program
+    static class Program
     {
         static void print(IEnumerable<State> records)
         {
@@ -29,7 +29,7 @@ namespace House_Size
             }
         }
 
-        static void huntingtonHillMethod(string path, IEnumerable<State> record, List<State> records, int size)
+        static void HuntingtonHillMethod(string path, IEnumerable<State> record, List<State> records, int size)
         {
             int remainingSeats = size;
             using (var reader = new StreamReader(path))
@@ -49,7 +49,7 @@ namespace House_Size
                     records[i].lowerQuota = (int)Math.Floor(records[i].standardQuota);
                     records[i].upperQuota = (int)Math.Ceiling(records[i].standardQuota);
                     records[i].Reps = 1;
-                    remainingSeats -= 1;
+                    remainingSeats--;
                 }
 
                 while (remainingSeats > 0)
@@ -86,7 +86,6 @@ namespace House_Size
             if (num == 1)
             {
                 path = "pop50.csv";
-                
             }
             if (num == 2)
             {
@@ -105,7 +104,7 @@ namespace House_Size
                 path = "popAll.csv";
             }
 
-            huntingtonHillMethod(path, record, records, size);
+            HuntingtonHillMethod(path, record, records, size);
             if (num == 5)
             {
                 Console.WriteLine("\nTerritories:");
@@ -119,9 +118,8 @@ namespace House_Size
         }
 
         static void Main(string[] args)
-        {       
+        {
             int check = 0;
-            
             while (check == 0)
             {
                 string option = "0";

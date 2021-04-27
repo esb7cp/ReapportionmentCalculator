@@ -1,0 +1,51 @@
+﻿Id,Name,Pop,Ab,Reps,StandardQuota,LowerQuota,UpperQuota,CurrentReps
+0,Alabama,4779736,AL,0,0,0,0,7
+1,Alaska,710231,AK,0,0,0,0,1
+2,Arizona,6392017,AZ,0,0,0,0,9
+3,Arkansas,2915918,AR,0,0,0,0,4
+4,California,37253956,CA,0,0,0,0,53
+5,Colorado,5029196,CO,0,0,0,0,7
+6,Connecticut,3574097,CT,0,0,0,0,5
+7,Delaware,897934,DE,0,0,0,0,1
+8,Florida,18801310,FL,0,0,0,0,27
+9,Georgia,9687653,GA,0,0,0,0,14
+10,Hawaii,1360301,HI,0,0,0,0,2
+11,Idaho,1567582,ID,0,0,0,0,2
+12,Illinois,12830632,IL,0,0,0,0,18
+13,Indiana,6483802,IN,0,0,0,0,9
+14,Iowa,3046355,IA,0,0,0,0,4
+15,Kansas,2853118,KS,0,0,0,0,4
+16,Kentucky,4339367,KY,0,0,0,0,6
+17,Louisiana,4533372,LA,0,0,0,0,6
+18,Maine,1328361,ME,0,0,0,0,2
+19,Maryland,5773552,MD,0,0,0,0,8
+20,Massachusetts,6547629,MA,0,0,0,0,9
+21,Michigan,9883640,MI,0,0,0,0,14
+22,Minnesota,5303925,MN,0,0,0,0,8
+23,Mississippi,2967297,MS,0,0,0,0,4
+24,Missouri,5988927,MO,0,0,0,0,8
+25,Montana,989415,MT,0,0,0,0,1
+26,Nebraska,1826341,NE,0,0,0,0,3
+27,Nevada,2700551,NV,0,0,0,0,4
+28,New Hampshire,1316470,NH,0,0,0,0,2
+29,New Jersey,8791894,NJ,0,0,0,0,12
+30,New Mexico,2059179,NM,0,0,0,0,3
+31,New York,19378102,NY,0,0,0,0,27
+32,North Carolina,9535483,NC,0,0,0,0,13
+33,North Dakota,672591,ND,0,0,0,0,1
+34,Ohio,11536504,OH,0,0,0,0,16
+35,Oklahoma,3751351,OK,0,0,0,0,5
+36,Oregon,3831074,OR,0,0,0,0,5
+37,Pennsylvania,12702379,PA,0,0,0,0,18
+38,Rhode Island,1052567,RI,0,0,0,0,2
+39,South Carolina,4625364,SC,0,0,0,0,7
+40,South Dakota,814180,SD,0,0,0,0,1
+41,Tennessee,6346105,TN,0,0,0,0,9
+42,Texas,25145561,TX,0,0,0,0,36
+43,Utah,2763885,UT,0,0,0,0,4
+44,Vermont,625741,VT,0,0,0,0,1
+45,Virginia,8001024,VA,0,0,0,0,11
+46,Washington,6724540,WA,0,0,0,0,10
+47,West Virginia,1852994,WV,0,0,0,0,3
+48,Wisconsin,5686986,WI,0,0,0,0,8
+49,Wyoming,563626,WY,0,0,0,0,1

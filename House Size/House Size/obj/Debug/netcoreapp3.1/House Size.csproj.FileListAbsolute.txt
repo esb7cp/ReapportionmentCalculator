@@ -13,3 +13,18 @@ C:\Users\esb54\Source\Repos\esb7cp\ReapportionmentCalculator\House Size\House Si
 C:\Users\esb54\Source\Repos\esb7cp\ReapportionmentCalculator\House Size\House Size\obj\Debug\netcoreapp3.1\House Size.dll
 C:\Users\esb54\Source\Repos\esb7cp\ReapportionmentCalculator\House Size\House Size\obj\Debug\netcoreapp3.1\House Size.pdb
 C:\Users\esb54\Source\Repos\esb7cp\ReapportionmentCalculator\House Size\House Size\obj\Debug\netcoreapp3.1\House Size.genruntimeconfig.cache
+F:\source\repos\ReapportionmentCalculator\House Size\House Size\bin\Debug\netcoreapp3.1\House Size.exe
+F:\source\repos\ReapportionmentCalculator\House Size\House Size\bin\Debug\netcoreapp3.1\House Size.deps.json
+F:\source\repos\ReapportionmentCalculator\House Size\House Size\bin\Debug\netcoreapp3.1\House Size.runtimeconfig.json
+F:\source\repos\ReapportionmentCalculator\House Size\House Size\bin\Debug\netcoreapp3.1\House Size.runtimeconfig.dev.json
+F:\source\repos\ReapportionmentCalculator\House Size\House Size\bin\Debug\netcoreapp3.1\House Size.dll
+F:\source\repos\ReapportionmentCalculator\House Size\House Size\bin\Debug\netcoreapp3.1\House Size.pdb
+F:\source\repos\ReapportionmentCalculator\House Size\House Size\bin\Debug\netcoreapp3.1\CsvHelper.dll
+F:\source\repos\ReapportionmentCalculator\House Size\House Size\obj\Debug\netcoreapp3.1\House Size.csprojAssemblyReference.cache
+F:\source\repos\ReapportionmentCalculator\House Size\House Size\obj\Debug\netcoreapp3.1\House Size.AssemblyInfoInputs.cache
+F:\source\repos\ReapportionmentCalculator\House Size\House Size\obj\Debug\netcoreapp3.1\House Size.AssemblyInfo.cs
+F:\source\repos\ReapportionmentCalculator\House Size\House Size\obj\Debug\netcoreapp3.1\House Size.csproj.CoreCompileInputs.cache
+F:\source\repos\ReapportionmentCalculator\House Size\House Size\obj\Debug\netcoreapp3.1\House Size.csproj.CopyComplete
+F:\source\repos\ReapportionmentCalculator\House Size\House Size\obj\Debug\netcoreapp3.1\House Size.dll
+F:\source\repos\ReapportionmentCalculator\House Size\House Size\obj\Debug\netcoreapp3.1\House Size.pdb
+F:\source\repos\ReapportionmentCalculator\House Size\House Size\obj\Debug\netcoreapp3.1\House Size.genruntimeconfig.cache

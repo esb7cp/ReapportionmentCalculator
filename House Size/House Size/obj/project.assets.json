@@ -122,22 +122,23 @@
   },
   "packageFolders": {
     "C:\\Users\\esb54\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\esb54\\source\\repos\\esb7cp\\ReapportionmentCalculator\\House Size\\House Size\\House Size.csproj",
+      "projectUniqueName": "F:\\source\\repos\\ReapportionmentCalculator\\House Size\\House Size\\House Size.csproj",
       "projectName": "House Size",
-      "projectPath": "C:\\Users\\esb54\\source\\repos\\esb7cp\\ReapportionmentCalculator\\House Size\\House Size\\House Size.csproj",
+      "projectPath": "F:\\source\\repos\\ReapportionmentCalculator\\House Size\\House Size\\House Size.csproj",
       "packagesPath": "C:\\Users\\esb54\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\esb54\\source\\repos\\esb7cp\\ReapportionmentCalculator\\House Size\\House Size\\obj\\",
+      "outputPath": "F:\\source\\repos\\ReapportionmentCalculator\\House Size\\House Size\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
         "C:\\Users\\esb54\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -149,6 +150,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "projectReferences": {}
         }
       },
@@ -160,6 +162,7 @@
     },
     "frameworks": {
       "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
         "dependencies": {
           "CsvHelper": {
             "target": "Package",
@@ -181,7 +184,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
       }
     }
   }
